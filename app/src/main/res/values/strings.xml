@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BubbleUpRetailers</string>
+    <string name="hired">Hired someone else</string>
+    <string name="service">Concerned about service hygiene</string>
+    <string name="service_not">Service not required at the booked time</string>
+    <string name="society">My society/buildings has restricted entry of\noutsiders</string>
+    <string name="professional">Professional not assigned</string>
+    <string name="placed">Placed the request by mistake</string>
+    <string name="others">Others</string>
+</resources>

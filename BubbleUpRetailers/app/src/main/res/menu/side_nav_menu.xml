@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/share_bubbleUp"
+            android:icon="@drawable/ic_share"
+            android:title="Share App" />
+    </group>
+
+
+    <group
+        android:id="@+id/group5"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/my_earnings"
+            android:icon="@drawable/rupee_logo"
+            android:iconTint="@color/stroke_yellow"
+            android:title="My Earnings" />
+    </group>
+
+
+    <group
+        android:id="@+id/group7"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/privacy"
+            android:icon="@drawable/ic_privacy"
+            android:title="Privacy Policy" />
+    </group>
+
+    <group
+        android:id="@+id/group8"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/terms"
+            android:icon="@drawable/ic_terms"
+            android:title="Terms &amp; Conditions" />
+    </group>
+
+</menu>
